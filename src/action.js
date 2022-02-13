@@ -1,0 +1,5 @@
+const ADD_OSC = 'ADD_OSC'
+const CREATE_MIXER = 'CREATE_MIXER'
+const SET_GAIN = 'SET_GAIN'
+
+export { ADD_OSC, CREATE_MIXER, SET_GAIN }
